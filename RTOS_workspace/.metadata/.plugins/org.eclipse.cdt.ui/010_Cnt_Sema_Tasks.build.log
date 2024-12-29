@@ -1,0 +1,10 @@
+21:10:53 **** Incremental Build of configuration Debug for project 010_Cnt_Sema_Tasks ****
+make -j8 all 
+arm-none-eabi-size  010_Cnt_Sema_Tasks.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28240	    100	  79532	 107872	  1a560	010_Cnt_Sema_Tasks.elf
+Finished building: default.size.stdout
+ 
+
+21:10:54 Build Finished. 0 errors, 0 warnings. (took 945ms)
+
